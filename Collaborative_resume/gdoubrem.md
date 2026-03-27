@@ -1,4 +1,4 @@
-# Gino Doubremell**Développeur / Ingénieur sécurité junior**
+# Gino Doubremelle **Développeur / Ingénieur sécurité junior**
 
 ---
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 👤 ProfiJe suis un jeune développeur ayant récemment terminé l'école 42, je suis passionné par la cybersécurité ainsi que par bien d'autres aspects de l'informatique[cite: 5]De nature logique et pragmatique, je rends donc un travail rigoureux et cohérent par rapport à la tâche demandée[cite: 6]Je me forme actuellement dans divers aspects de la cybersécurité notamment via des plateformes en ligne comme HackTheBox, TryHackMe ou RootMe.
+## 👤 Profil Je suis un jeune développeur ayant récemment terminé l'école 42, je suis passionné par la cybersécurité ainsi que par bien d'autres aspects de l'informatique. De nature logique et pragmatique, je rends donc un travail rigoureux et cohérent par rapport à la tâche demandée Je me forme actuellement dans divers aspects de la cybersécurité notamment via des plateformes en ligne comme HackTheBox, TryHackMe ou RootMe.
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 🎓 Éducation
 
-### Ecole 42 Pari*11/2023 — 07/2025*
+### Ecole 42 Paris* 11/2023 — 07/2025*
 Projets du tronc commun terminés.
 Quelques projets de cybersécurité et de malware.
 
